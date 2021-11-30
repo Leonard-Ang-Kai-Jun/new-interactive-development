@@ -1,0 +1,152 @@
+.tab {
+    color: navy;
+    font-family: "Noto Sans";
+    }
+
+.intro-header {
+  color: silver;
+  font-family: Impact;
+  text-align: center;
+  font-size: 250%;
+  
+}
+
+.intro {
+  color: white;
+  font-family: "Segoe UI";
+  text-align: center;
+  font-size: 250%;
+}
+
+.first-page{
+  background-image: url( "https://static.straitstimes.com.sg/s3fs-public/styles/article_pictrure_780x520_/public/articles/2021/05/03/ak_nap_0305.jpg?itok=bqKsHXmD&timestamp=1620033043");
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-height: 100%;
+}
+
+.social-media-header {
+  color: blue;
+  font-family: Impact;
+  text-align: left;
+  font-size: 250%;
+}
+
+.social-media-text{
+  color: red;
+  font-family: Haettenschweiler;
+  text-align: center;
+  font-size: 250%;
+}
+
+.social-media{
+  background-image: url(https://neilpatel.com/wp-content/uploads/2021/08/social-media-metrics.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-height: 100%;
+}
+
+.computing {
+  background-image: url(https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9fa9e815da35da1356a28b%2FThe-5-Biggest-Cloud-Computing-Trends-In-2021%2F960x0.jpg%3Ffit%3Dscale);
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-height: 100%;
+}
+
+.computing-header {
+  color: green;
+  font-family: Impact;
+  text-align: center;
+  font-size: 250%;
+}
+
+.computing-text-1{
+  color: yellow;
+  font-family: Arial;
+  text-align: right;
+  font-size: 250%;
+}
+
+.computing-text-2{
+  color: yellow;
+  font-family: Arial;
+  text-align: left;
+  font-size: 250%;
+}
+
+.personal-information{
+  background-image: url(https://cdn.mos.cms.futurecdn.net/MCTaifsDFHvU7pJ9uKmjzY.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-height: 100%;
+}
+
+.pi-header{
+  color: cyan;
+  font-family: Courier;
+  text-align: right;
+  font-size: 250%;
+}
+
+.pi{
+  color: magenta;
+  font-family: Georgia;
+  text-align: center;
+  font-size: 250%;
+}
+
+.birth{
+  background-image: url(https://patients.smarterhealth.my/wp-content/uploads/2019/04/gleneagles-sg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-height: 100%;
+}
+
+.birth-text{
+  color: orange;
+  font-family: 'Lucida Sans';
+  text-align: right;
+  font-size: 300%;
+}
+
+.kindergarten{
+  background-image: url('https://inurtureland.files.wordpress.com/2012/08/img_0160.jpg?w=2000&h=');
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-height: 100%;
+}
+
+.kindergarten-text{
+  color: violet;
+  font-family: 'Arial';
+  text-align: center;
+  font-size: 500%;
+}
+
+.pathlight{
+  background-image: url('https://www.pathlight.org.sg/media/k2/items/cache/2fa67f482133f1c934235b73c2a03954_L.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-height: 100%;
+}
+
+.pathlight-text{
+  color: brown;
+  font-family: 'Georgia';
+  font-size: 500%;
+  text-align: center;
+}
+
+.immersive-media{
+  background-image: url('https://www.xrtoday.com/wp-content/uploads/2021/05/What_is_Immersive_Media_An_Introduction.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-height: 100%;
+}
+
+.immersive-text{
+  color: gray;
+  font-family: 'Century Gothic';
+  font-size: 500%;
+  text-align: center;
+}
