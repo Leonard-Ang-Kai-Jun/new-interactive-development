@@ -1,0 +1,133 @@
+Nov 01, 2021 2:35:10 PM freemind.main.FreeMind <init>
+INFO: freemind_version = 1.0.1; freemind_xml_version = 1.0.1
+Build: 6
+
+java_version = 1.8.0_311; os_name = Windows 10; os_version = 10.0
+Nov 01, 2021 2:35:10 PM freemind.main.EditServer <init>
+INFO: FreeMind server started on port 64258
+Nov 01, 2021 2:35:10 PM freemind.main.EditServer <init>
+INFO: Authorization key is 822323148
+Nov 01, 2021 2:35:10 PM freemind.main.FreeMind updateLookAndFeel
+INFO: Default (System) Look & Feel: com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+Nov 01, 2021 2:35:11 PM freemind.main.Tools getFreeMindBasePath
+INFO: Path: /C:/Program Files (x86)/FreeMind/lib/freemind.jar
+Nov 01, 2021 2:35:11 PM freemind.main.Tools getFreeMindBasePath
+INFO: reducded Path: /C:/Program Files (x86)/FreeMind/
+Nov 01, 2021 2:35:11 PM freemind.modes.ModesCreator getAllModes
+INFO: Modes:[freemind.modes.browsemode.BrowseMode, freemind.modes.filemode.FileMode, freemind.modes.mindmapmode.MindMapMode]
+Nov 01, 2021 2:35:11 PM freemind.modes.ModesCreator getMode
+INFO: Initializing mode MindMap
+Nov 01, 2021 2:35:11 PM freemind.modes.mindmapmode.MindMapController init
+INFO: createIconActions
+
+STDOUT: User patterns file C:\Users\leona\.freemind\patterns.xml not found.Nov 01, 2021 2:35:11 PM freemind.modes.mindmapmode.MindMapController init
+INFO: createNodeHookActions
+Nov 01, 2021 2:35:11 PM freemind.main.FreeMindCommon getFreemindBaseDir
+INFO: Basedir is: C:\Program Files (x86)\FreeMind
+Nov 01, 2021 2:35:11 PM freemind.extensions.ImportWizard buildClassList
+INFO: Classpath for plugins:C:\Program Files (x86)\FreeMind;C:\Program Files (x86)\FreeMind\lib\freemind.jar
+Nov 01, 2021 2:35:11 PM freemind.extensions.ImportWizard addClassesFromDir
+INFO: Found: accessories\mm2ooimpressStyles
+Nov 01, 2021 2:35:11 PM freemind.extensions.ImportWizard addClassesFromDir
+INFO: Found: accessories\mm2oowriterStyles
+Nov 01, 2021 2:35:11 PM freemind.extensions.ImportWizard addClassesFromDir
+INFO: Found: patterns
+Nov 01, 2021 2:35:11 PM freemind.extensions.ImportWizard addClassesFromDir
+INFO: Found: plugins\CollaborationSocket
+Nov 01, 2021 2:35:11 PM freemind.extensions.ImportWizard addClassesFromDir
+INFO: Found: plugins\ExportSvg
+Nov 01, 2021 2:35:11 PM freemind.extensions.ImportWizard addClassesFromDir
+INFO: Found: plugins\FreemindHelp
+Nov 01, 2021 2:35:11 PM freemind.extensions.ImportWizard addClassesFromDir
+INFO: Found: plugins\MapViewer
+Nov 01, 2021 2:35:11 PM freemind.extensions.ImportWizard addClassesFromDir
+INFO: Found: plugins\ScriptingEngine
+Nov 01, 2021 2:35:11 PM freemind.modes.mindmapmode.MindMapController init
+INFO: mindmap_menus
+Nov 01, 2021 2:35:11 PM freemind.modes.mindmapmode.MindMapController init
+INFO: MindMapPopupMenu
+Nov 01, 2021 2:35:11 PM freemind.modes.mindmapmode.MindMapController init
+INFO: MindMapToolBar
+Nov 01, 2021 2:35:11 PM freemind.modes.ModesCreator getMode
+INFO: Done: Initializing mode MindMap
+Nov 01, 2021 2:35:11 PM freemind.controller.Controller obtainFocusForSelected
+INFO: No view present. No focus!
+Nov 01, 2021 2:35:11 PM freemind.controller.Controller numberOfOpenMapInformation
+INFO: number 0, pIndex -1
+Nov 01, 2021 2:35:11 PM freemind.modes.mindmapmode.MindMapController init
+INFO: createIconActions
+
+STDOUT: User patterns file C:\Users\leona\.freemind\patterns.xml not found.Nov 01, 2021 2:35:11 PM freemind.modes.mindmapmode.MindMapController init
+INFO: createNodeHookActions
+Nov 01, 2021 2:35:11 PM freemind.modes.mindmapmode.MindMapController init
+INFO: mindmap_menus
+Nov 01, 2021 2:35:11 PM freemind.modes.mindmapmode.MindMapController init
+INFO: MindMapPopupMenu
+Nov 01, 2021 2:35:11 PM freemind.modes.mindmapmode.MindMapController init
+INFO: MindMapToolBar
+Nov 01, 2021 2:35:11 PM freemind.modes.common.listeners.MindMapMouseWheelEventHandler <init>
+INFO: Setting SCROLL_SKIPS to 80
+Nov 01, 2021 2:35:11 PM freemind.extensions.HookDescriptorBase getClassLoader
+INFO: file file:/C:/Program%20Files%20(x86)/FreeMind/plugins/collaboration/socket/socket_plugin.jar exists = true
+Nov 01, 2021 2:35:11 PM freemind.extensions.HookDescriptorBase getClassLoader
+INFO: file file:/C:/Program%20Files%20(x86)/FreeMind/plugins/map/JMapViewer.jar exists = true
+Nov 01, 2021 2:35:11 PM freemind.extensions.HookDescriptorBase getClassLoader
+INFO: file file:/C:/Program%20Files%20(x86)/FreeMind/plugins/map/map_plugin.jar exists = true
+Nov 01, 2021 2:35:11 PM freemind.extensions.HookDescriptorBase getClassLoader
+INFO: file file:/C:/Program%20Files%20(x86)/FreeMind/plugins/script/scripting_plugin.jar exists = true
+Nov 01, 2021 2:35:11 PM freemind.extensions.HookDescriptorBase getClassLoader
+INFO: file file:/C:/Program%20Files%20(x86)/FreeMind/plugins/script/groovy-all-1.5.6.jar exists = true
+Nov 01, 2021 2:35:11 PM plugins.map.Registration getCacheDirectory
+INFO: Trying to use file cache tile loader with dir C:\Users\leona\.freemind\osm
+Nov 01, 2021 2:35:11 PM plugins.map.Registration createTileLoader
+INFO: Setting cache max age to 7 days.
+Nov 01, 2021 2:35:11 PM plugins.map.Registration getCacheDirectory
+INFO: Trying to use file cache tile loader with dir C:\Users\leona\.freemind\osm
+Nov 01, 2021 2:35:12 PM freemind.controller.Controller numberOfOpenMapInformation
+INFO: number 1, pIndex 0
+Nov 01, 2021 2:45:11 PM plugins.map.Registration$CachePurger run
+INFO: Start purging for C:\Users\leona\.freemind\osm
+Nov 01, 2021 2:45:11 PM plugins.map.Registration$CachePurger run
+INFO: Finished purging
+Nov 01, 2021 2:47:05 PM freemind.controller.Controller$ToggleToolbarAction isSelected
+INFO: ToggleToolbar was asked for selectedness.
+Nov 01, 2021 2:47:21 PM freemind.controller.Controller$ToggleToolbarAction isSelected
+INFO: ToggleToolbar was asked for selectedness.
+Nov 01, 2021 2:47:27 PM freemind.controller.Controller$ToggleToolbarAction isSelected
+INFO: ToggleToolbar was asked for selectedness.
+Nov 01, 2021 2:55:11 PM plugins.map.Registration$CachePurger run
+INFO: Start purging for C:\Users\leona\.freemind\osm
+Nov 01, 2021 2:55:11 PM plugins.map.Registration$CachePurger run
+INFO: Finished purging
+Nov 01, 2021 3:01:45 PM freemind.controller.Controller$ToggleToolbarAction isSelected
+INFO: ToggleToolbar was asked for selectedness.
+Nov 01, 2021 3:01:46 PM freemind.controller.Controller$ToggleToolbarAction isSelected
+INFO: ToggleToolbar was asked for selectedness.
+Nov 01, 2021 3:01:59 PM freemind.controller.Controller$ToggleToolbarAction isSelected
+INFO: ToggleToolbar was asked for selectedness.
+Nov 01, 2021 3:05:11 PM plugins.map.Registration$CachePurger run
+INFO: Start purging for C:\Users\leona\.freemind\osm
+Nov 01, 2021 3:05:11 PM plugins.map.Registration$CachePurger run
+INFO: Finished purging
+Nov 01, 2021 3:15:11 PM plugins.map.Registration$CachePurger run
+INFO: Start purging for C:\Users\leona\.freemind\osm
+Nov 01, 2021 3:15:11 PM plugins.map.Registration$CachePurger run
+INFO: Finished purging
+Nov 01, 2021 3:25:11 PM plugins.map.Registration$CachePurger run
+INFO: Start purging for C:\Users\leona\.freemind\osm
+Nov 01, 2021 3:25:11 PM plugins.map.Registration$CachePurger run
+INFO: Finished purging
+Nov 01, 2021 3:27:11 PM freemind.modes.common.listeners.MindMapMouseWheelEventHandler <init>
+INFO: Setting SCROLL_SKIPS to 80
+Nov 01, 2021 3:27:11 PM plugins.map.Registration getCacheDirectory
+INFO: Trying to use file cache tile loader with dir C:\Users\leona\.freemind\osm
+Nov 01, 2021 3:27:11 PM plugins.map.Registration createTileLoader
+INFO: Setting cache max age to 7 days.
+Nov 01, 2021 3:27:11 PM freemind.controller.Controller numberOfOpenMapInformation
+INFO: number 1, pIndex 0
+Nov 01, 2021 3:27:13 PM freemind.controller.Controller obtainFocusForSelected
+INFO: No view present. No focus!
+Nov 01, 2021 3:27:13 PM freemind.controller.Controller numberOfOpenMapInformation
+INFO: number 0, pIndex -1
+Nov 01, 2021 3:27:13 PM freemind.controller.Controller quit
+INFO: Closed the map null

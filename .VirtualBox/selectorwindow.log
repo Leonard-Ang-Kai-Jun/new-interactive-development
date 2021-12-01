@@ -1,0 +1,17 @@
+00:00:00.121834 VirtualBox GUI VM Selector Window 6.1.26 r145957 win.amd64 (Jul 28 2021 17:15:09) release log
+00:00:00.121835 Log opened 2021-08-04T03:14:47.403984600Z
+00:00:00.121836 Build Type: release
+00:00:00.121838 OS Product: Windows 10
+00:00:00.121839 OS Release: 10.0.19043
+00:00:00.121840 OS Service Pack: 
+00:00:00.139756 DMI Product Name: ROG Strix G512LI_G512LI
+00:00:00.142405 DMI Product Version: 1.0       
+00:00:00.142436 Firmware type: UEFI
+00:00:00.142556 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.142580 Host RAM: 16171MB (15.7GB) total, 8241MB (8.0GB) available
+00:00:00.142582 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.142583 Process ID: 43144
+00:00:00.142583 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.142702 Qt version: 5.6.2
+00:00:00.151520 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.484441 GUI: UIMediumEnumerator: Medium-enumeration finished!

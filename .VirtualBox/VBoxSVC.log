@@ -1,0 +1,63 @@
+00:00:00.002106 main     VirtualBox COM Server 6.1.26 r145957 win.amd64 (Jul 28 2021 17:15:09) release log
+00:00:00.002107 main     Log opened 2021-08-04T03:08:10.060725400Z
+00:00:00.002108 main     Build Type: release
+00:00:00.002134 main     OS Product: Windows 10
+00:00:00.002135 main     OS Release: 10.0.19043
+00:00:00.002135 main     OS Service Pack: 
+00:00:00.027270 main     DMI Product Name: ROG Strix G512LI_G512LI
+00:00:00.038088 main     DMI Product Version: 1.0       
+00:00:00.038108 main     Firmware type: UEFI
+00:00:00.038219 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.038273 main     Host RAM: 16171MB (15.7GB) total, 7947MB (7.7GB) available
+00:00:00.038284 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.038285 main     Process ID: 26072
+00:00:00.038285 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.112768          VirtualBox: object creation starts
+00:00:00.112982          Home directory: 'C:\Users\leona\.VirtualBox'
+00:00:00.113114          Installed Drivers:
+00:00:00.117445            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.26.45957)
+00:00:00.117740            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.26.45957)
+00:00:00.118044            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.26.45957)
+00:00:00.118360            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.26.45957)
+00:00:00.118968          Loading settings file "C:\Users\leona\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.121055          usbLibGetDevices: Starting USB device enumeration
+00:00:00.128406          Getting USB descriptor (id 3) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:00:00.130893          Getting USB descriptor (id 3) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:00:00.132113          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:00:00.133395          usbLibGetDevices: Found 4 USB devices, 0 captured
+00:00:00.133622          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0026)
+00:00:00.161187          HostDnsMonitor: initializing
+00:00:00.166650          HostDnsMonitor: updating information
+00:00:00.166695          HostDnsMonitor: old information
+00:00:00.166696            no server entries
+00:00:00.166697            no domain set
+00:00:00.166697            no search string entries
+00:00:00.166697          HostDnsMonitor: new information
+00:00:00.166698            server 1: 192.168.1.254
+00:00:00.166698            no domain set
+00:00:00.166698            no search string entries
+00:00:00.218100          VD: VDInit finished with VINF_SUCCESS
+00:00:00.219381          Loading settings file "C:\Users\leona\VirtualBox VMs\Ubuntu\Ubuntu\Ubuntu.vbox" with version "1.16-windows"
+00:00:00.220680          VirtualBox: object created
+00:00:04.670207          Saving settings file "C:\Users\leona\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:04.673480          Saving settings file "C:\Users\leona\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:17.374243          Launched VM: 67789408 pid: 22380 (0x576c) frontend: GUI/Qt name: Ubuntu
+00:00:21.611135          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:21.850843          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:23.667062          Saving settings file "C:\Users\leona\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:23.669806          Saving settings file "C:\Users\leona\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:29.113724 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:01:29.123099 USBPROXY Getting USB descriptor (id 3) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:01:29.123239 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:01:29.123341 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:01:29.123537 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:06:32.939558          Saving settings file "C:\Users\leona\VirtualBox VMs\Ubuntu\Ubuntu\Ubuntu.vbox" with version "1.16-windows"
+00:06:43.691710          Saving settings file "C:\Users\leona\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:46.409858          Saving settings file "C:\Users\leona\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:46.413025          Saving settings file "C:\Users\leona\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:46.415566          Saving settings file "C:\Users\leona\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:51.926892 main     VirtualBox: object deletion starts
+00:06:51.938305 main     HostDnsMonitor: shutting down ...
+00:06:51.938374 main     HostDnsMonitor: shut down
+00:06:51.940898 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:06:51.941448 main     VirtualBox: object deleted
