@@ -1,152 +1,207 @@
 .tab {
     color: navy;
     font-family: "Noto Sans";
-    }
+}
 
 .intro-header {
-  color: silver;
-  font-family: Impact;
-  text-align: center;
-  font-size: 250%;
-  
+    color: silver;
+    font-family: Impact;
+    text-align: center;
+    font-size: 250%;
 }
 
 .intro {
-  color: white;
-  font-family: "Segoe UI";
-  text-align: center;
-  font-size: 250%;
+    color: white;
+    font-family: "Segoe UI";
+    text-align: center;
+    font-size: 250%;
 }
 
-.first-page{
-  background-image: url( "https://static.straitstimes.com.sg/s3fs-public/styles/article_pictrure_780x520_/public/articles/2021/05/03/ak_nap_0305.jpg?itok=bqKsHXmD&timestamp=1620033043");
-  background-repeat: no-repeat;
-  background-size: cover;
-  max-height: 100%;
+.first-page {
+    background-image: url("https://static.straitstimes.com.sg/s3fs-public/styles/article_pictrure_780x520_/public/articles/2021/05/03/ak_nap_0305.jpg?itok=bqKsHXmD&timestamp=1620033043");
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 100%;
 }
 
 .social-media-header {
-  color: blue;
-  font-family: Impact;
-  text-align: left;
-  font-size: 250%;
+    color: blue;
+    font-family: Impact;
+    text-align: left;
+    font-size: 250%;
 }
 
-.social-media-text{
-  color: red;
-  font-family: Haettenschweiler;
-  text-align: center;
-  font-size: 250%;
+.social-media-text {
+    color: red;
+    font-family: Haettenschweiler;
+    text-align: center;
+    font-size: 250%;
 }
 
-.social-media{
-  background-image: url(https://neilpatel.com/wp-content/uploads/2021/08/social-media-metrics.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  max-height: 100%;
+.social-media {
+    background-image: url(https://neilpatel.com/wp-content/uploads/2021/08/social-media-metrics.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 100%;
 }
 
 .computing {
-  background-image: url(https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9fa9e815da35da1356a28b%2FThe-5-Biggest-Cloud-Computing-Trends-In-2021%2F960x0.jpg%3Ffit%3Dscale);
-  background-repeat: no-repeat;
-  background-size: cover;
-  max-height: 100%;
+    background-image: url(https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9fa9e815da35da1356a28b%2FThe-5-Biggest-Cloud-Computing-Trends-In-2021%2F960x0.jpg%3Ffit%3Dscale);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 100%;
 }
 
 .computing-header {
-  color: green;
-  font-family: Impact;
-  text-align: center;
-  font-size: 250%;
+    color: green;
+    font-family: Impact;
+    text-align: center;
+    font-size: 250%;
 }
 
-.computing-text-1{
-  color: yellow;
-  font-family: Arial;
-  text-align: right;
-  font-size: 250%;
+.computing-text-1 {
+    color: yellow;
+    font-family: Arial;
+    text-align: right;
+    font-size: 250%;
 }
 
-.computing-text-2{
-  color: yellow;
-  font-family: Arial;
-  text-align: left;
-  font-size: 250%;
+.computing-text-2 {
+    color: yellow;
+    font-family: Arial;
+    text-align: left;
+    font-size: 250%;
 }
 
-.personal-information{
-  background-image: url(https://cdn.mos.cms.futurecdn.net/MCTaifsDFHvU7pJ9uKmjzY.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  max-height: 100%;
+.personal-information {
+    background-image: url(https://cdn.mos.cms.futurecdn.net/MCTaifsDFHvU7pJ9uKmjzY.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 100%;
 }
 
-.pi-header{
-  color: cyan;
-  font-family: Courier;
-  text-align: right;
-  font-size: 250%;
+.pi-header {
+    color: cyan;
+    font-family: Courier;
+    text-align: right;
+    font-size: 250%;
 }
 
-.pi{
-  color: magenta;
-  font-family: Georgia;
-  text-align: center;
-  font-size: 250%;
+.pi {
+    color: magenta;
+    font-family: Georgia;
+    text-align: center;
+    font-size: 250%;
 }
 
-.birth{
-  background-image: url(https://patients.smarterhealth.my/wp-content/uploads/2019/04/gleneagles-sg.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  max-height: 100%;
+.birth {
+    background-image: url(https://patients.smarterhealth.my/wp-content/uploads/2019/04/gleneagles-sg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 100%;
 }
 
-.birth-text{
-  color: orange;
-  font-family: 'Lucida Sans';
-  text-align: right;
-  font-size: 300%;
+.birth-text {
+    color: orange;
+    font-family: 'Lucida Sans';
+    text-align: right;
+    font-size: 300%;
 }
 
-.kindergarten{
-  background-image: url('https://inurtureland.files.wordpress.com/2012/08/img_0160.jpg?w=2000&h=');
-  background-repeat: no-repeat;
-  background-size: cover;
-  max-height: 100%;
+.kindergarten {
+    background-image: url('https://inurtureland.files.wordpress.com/2012/08/img_0160.jpg?w=2000&h=');
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 100%;
 }
 
-.kindergarten-text{
-  color: violet;
-  font-family: 'Arial';
-  text-align: center;
-  font-size: 500%;
+.kindergarten-text {
+    color: violet;
+    font-family: 'Arial';
+    text-align: center;
+    font-size: 500%;
 }
 
-.pathlight{
-  background-image: url('https://www.pathlight.org.sg/media/k2/items/cache/2fa67f482133f1c934235b73c2a03954_L.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  max-height: 100%;
+.pathlight {
+    background-image: url('https://www.pathlight.org.sg/media/k2/items/cache/2fa67f482133f1c934235b73c2a03954_L.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 100%;
 }
 
-.pathlight-text{
-  color: brown;
-  font-family: 'Georgia';
-  font-size: 500%;
-  text-align: center;
+.pathlight-text {
+    color: brown;
+    font-family: 'Georgia';
+    font-size: 500%;
+    text-align: center;
 }
 
-.immersive-media{
-  background-image: url('https://www.xrtoday.com/wp-content/uploads/2021/05/What_is_Immersive_Media_An_Introduction.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  max-height: 100%;
+.immersive-media {
+    background-image: url('https://www.xrtoday.com/wp-content/uploads/2021/05/What_is_Immersive_Media_An_Introduction.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 100%;
 }
 
-.immersive-text{
-  color: gray;
-  font-family: 'Century Gothic';
-  font-size: 500%;
-  text-align: center;
+.immersive-text {
+    color: gray;
+    font-family: 'Century Gothic';
+    font-size: 500%;
+    text-align: center;
+}
+
+.work {
+    background-image: url('https://static.straitstimes.com.sg/s3fs-public/styles/article_pictrure_780x520_/public/articles/2020/09/24/hzwfo0924.jpg?itok=Qz_Ca993&timestamp=1600943522');
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 100%;
+}
+
+.work-text {
+    color: pink;
+    font-family: 'Gill Sans MT';
+    font-size: 500%;
+    text-align: center;
+}
+
+.skills {
+    background-image: url('https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/finding-the-right-career-with-the-abcs-of-riasec/jcr:content/par/article_container_757027542/par-article-container/columncontrol/col-8-4-1/image_1368453760.img.png/1607928727970.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 100%;
+}
+
+.skills-text {
+    color: lime;
+    font-family: Tahoma;
+    font-size: 500%;
+    text-align: center;
+}
+
+.national-service {
+    background-image: url('https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Oct2019/20191010_sgarmy_fb.jpg?itok=veRV7dDg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 100%;
+}
+
+.ns-text {
+    color: olive;
+    font-family: Calibri;
+    font-size: 500%;
+    text-align: center;
+}
+
+.marriage {
+    background-image: url('https://www.brides.com/thmb/M7Pc1Enad1anqkCFaQ21pJXPtA8=/1425x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/charlotte-and-patrick-22-4a52ceaed9f3412f803f7b2f999a617e-square-a6234588f9584a7f85cf789670395fce.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 100%;
+}
+
+.marry-text {
+    color: black;
+    font-family: 'Trebuchet MS';
+    font-size: 500%;
+    text-align: center;
 }
